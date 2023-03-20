@@ -1,0 +1,1 @@
+#define RECT l*b
